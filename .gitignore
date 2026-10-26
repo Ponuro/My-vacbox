@@ -1,0 +1,12 @@
+# Секреты — НИКОГДА не коммитим
+*client-params.env
+client-params.env
+secrets/
+*.pem
+*.key
+*.key.pem
+*.cert.pem
+
+# Мусор
+*.log
+*.tmp
